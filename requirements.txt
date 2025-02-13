@@ -1,0 +1,7 @@
+agno
+groq
+yfinance
+duckduckgo-search
+python-dotenv
+fastapi[standard]
+sqlalchemy
